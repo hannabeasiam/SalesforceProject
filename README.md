@@ -1,2 +1,2 @@
 # SalesforceProject
-This repository includes personal project, trailmix, SF99 challenge.
+This repository includes SF99 challenge.
