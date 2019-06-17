@@ -13,3 +13,11 @@ On Case creation, if product has warranty days, poppulate warranty summary field
 
 ### Leading Competitor [Trigger](https://github.com/hannabeasiam/SalesforceProject/blob/develop/SFDEVELOPER/force-app/main/default/triggers/LeadingCompetitor.trigger) / [TestClass](https://github.com/hannabeasiam/SalesforceProject/blob/develop/SFDEVELOPER/force-app/main/default/classes/LeadingCompetitorTest.cls)
 On opportunity creation or update, find competition company who offer lowest price, and display the leading competitor company's name & price  
+
+
+### DBPROJECT [Link](https://github.com/hannabeasiam/SalesforceProject/blob/develop/DBPROJECT)
+SCM project csv upload class - 2017
+
+
+### TrailHead [Link](https://github.com/hannabeasiam/SalesforceProject/blob/develop/TrailHead)
+Salesforce Trailhead playground
